@@ -1,0 +1,13 @@
+C:\Users\Patrick\Documents\MEGA\Personal Projects\DriveSyncV1\DriveSync\obj\Debug\DriveSync.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\MEGA\Personal Projects\DriveSyncV1\DriveSync\obj\Debug\DriveSync.frmSync.resources
+C:\Users\Patrick\Documents\MEGA\Personal Projects\DriveSyncV1\DriveSync\obj\Debug\DriveSync.frmOptions.resources
+C:\Users\Patrick\Documents\MEGA\Personal Projects\DriveSyncV1\DriveSync\obj\Debug\DriveSync.Properties.Resources.resources
+C:\Users\Patrick\Documents\MEGA\Personal Projects\DriveSyncV1\DriveSync\obj\Debug\DriveSync.csproj.GenerateResource.Cache
+C:\Users\Patrick\Documents\MEGA\Personal Projects\DriveSyncV1\DriveSync\bin\Debug\Drive-Sync.exe.config
+C:\Users\Patrick\Documents\MEGA\Personal Projects\DriveSyncV1\DriveSync\bin\Debug\Drive-Sync.exe
+C:\Users\Patrick\Documents\MEGA\Personal Projects\DriveSyncV1\DriveSync\bin\Debug\Drive-Sync.pdb
+C:\Users\Patrick\Documents\MEGA\Personal Projects\DriveSyncV1\DriveSync\obj\Debug\Drive-Sync.exe
+C:\Users\Patrick\Documents\MEGA\Personal Projects\DriveSyncV1\DriveSync\obj\Debug\Drive-Sync.pdb
+C:\Users\Patrick\Documents\MEGA\Personal Projects\DriveSyncV1\DriveSync\obj\Debug\DriveSync.frmHelp.resources
+C:\Users\Patrick\Documents\MEGA\Personal Projects\DriveSyncV1\DriveSync\obj\Debug\DriveSync.frmLoader.resources
+C:\Users\Patrick\Documents\MEGA\Personal Projects\DriveSyncV1\DriveSync\obj\Debug\DriveSync.csproj.CoreCompileInputs.cache
